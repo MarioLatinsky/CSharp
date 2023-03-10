@@ -1,0 +1,15 @@
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.exe
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.deps.json
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.runtimeconfig.json
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\bin\Debug\net6.0\SecondHomeWork.pdb
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.csproj.AssemblyReference.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.AssemblyInfoInputs.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.AssemblyInfo.cs
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\refint\SecondHomeWork.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.pdb
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\SecondHomeWork.genruntimeconfig.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class2\SecondHomeWork\SecondHomeWork\obj\Debug\net6.0\ref\SecondHomeWork.dll
