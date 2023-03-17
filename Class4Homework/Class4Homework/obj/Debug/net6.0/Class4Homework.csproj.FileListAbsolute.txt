@@ -1,0 +1,15 @@
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\bin\Debug\net6.0\Class4Homework.exe
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\bin\Debug\net6.0\Class4Homework.deps.json
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\bin\Debug\net6.0\Class4Homework.runtimeconfig.json
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\bin\Debug\net6.0\Class4Homework.dll
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\bin\Debug\net6.0\Class4Homework.pdb
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\Class4Homework.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\Class4Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\Class4Homework.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\Class4Homework.AssemblyInfo.cs
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\Class4Homework.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\Class4Homework.dll
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\refint\Class4Homework.dll
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\Class4Homework.pdb
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\Class4Homework.genruntimeconfig.cache
+C:\Users\mario\Desktop\.NET\c#Basic_Class4\Class4\Class4HomeWork\Class4Homework\Class4Homework\obj\Debug\net6.0\ref\Class4Homework.dll
