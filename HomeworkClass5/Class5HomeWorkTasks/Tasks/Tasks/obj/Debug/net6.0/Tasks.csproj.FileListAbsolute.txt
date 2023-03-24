@@ -1,0 +1,15 @@
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\bin\Debug\net6.0\Tasks.exe
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\bin\Debug\net6.0\Tasks.deps.json
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\bin\Debug\net6.0\Tasks.runtimeconfig.json
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\bin\Debug\net6.0\Tasks.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\bin\Debug\net6.0\Tasks.pdb
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\Tasks.csproj.AssemblyReference.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\Tasks.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\refint\Tasks.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\Tasks.pdb
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\Tasks.genruntimeconfig.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWorkTasks\Tasks\Tasks\obj\Debug\net6.0\ref\Tasks.dll

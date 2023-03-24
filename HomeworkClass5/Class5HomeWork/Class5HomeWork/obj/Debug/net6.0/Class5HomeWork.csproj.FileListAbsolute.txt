@@ -1,0 +1,15 @@
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\bin\Debug\net6.0\Class5HomeWork.exe
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\bin\Debug\net6.0\Class5HomeWork.deps.json
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\bin\Debug\net6.0\Class5HomeWork.runtimeconfig.json
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\bin\Debug\net6.0\Class5HomeWork.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\bin\Debug\net6.0\Class5HomeWork.pdb
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\Class5HomeWork.csproj.AssemblyReference.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\Class5HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\Class5HomeWork.AssemblyInfoInputs.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\Class5HomeWork.AssemblyInfo.cs
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\Class5HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\Class5HomeWork.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\refint\Class5HomeWork.dll
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\Class5HomeWork.pdb
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\Class5HomeWork.genruntimeconfig.cache
+C:\Users\MARIO\OneDrive\Desktop\.NET\Class5\HomeworkClass5\Class5HomeWork\Class5HomeWork\obj\Debug\net6.0\ref\Class5HomeWork.dll
