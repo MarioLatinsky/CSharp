@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7R7EQkL67zytyMHK+7JkUGJAdyTF3wIBml1V5ooKrY/3V2m8ikpy2gG1QAWVvSv8E8zX8sTGF65oWKa47xF1Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MARIO\\OneDrive\\Desktop\\C#ADVANCED GIT\\G2\\FullWorkshop\\TaxiManagerApp9000\\TaxiManagerApp9000.DataAccess\\TaxiManagerApp9000.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARIO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
